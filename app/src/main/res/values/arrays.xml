@@ -3,7 +3,7 @@
     <string-array name="xposedscope">
         <item>com.radolyn.ayugram</item>
         <item>org.telegram.messenger</item>
-        <item>org.telegram.messenger.beta</item>
+        <item>nekox.messenger.broken</item>
         <item>org.telegram.plus</item>
         <item>nekox.messenger</item>
         <item>com.jasonkhew96.pigeongram</item>
